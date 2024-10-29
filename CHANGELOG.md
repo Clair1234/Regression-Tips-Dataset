@@ -13,3 +13,7 @@
 - Implement data cleaning and transformation
 - Implement train and test data
 - Implement model 
+
+## 2024-10-29
+### Added
+- Add requirements.txt
